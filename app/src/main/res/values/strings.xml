@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Trivia</string>
+    <string name="trivia">Trivia</string>
+    <string name="true_text">TRUE</string>
+    <string name="correct_answer">Correct!!!</string>
+    <string name="wrong_answer">Wrong!!!</string>
+    <string name="false_text">False</string>
+    <string name="out_of_100">0 out of 100</string>
+    <string name="previous">previous</string>
+    <string name="next">next</string>
+    <string name="we_will_add_someone_questions_here_for_the_trivia_app">We will add someone questions here for the trivia app</string>
+    <string name="current_score_0">Current Score : 0</string>
+    <string name="high_score_0">High Score : 0</string>
+</resources>
